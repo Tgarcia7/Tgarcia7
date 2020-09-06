@@ -3,11 +3,11 @@
 My name is Tey García and I'm a web developer engineer. I'm from Costa Rica, currently working at Código-E. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&color=bfbfbf&logoColor=80bd01)
+![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&color=8f8f8f&logoColor=80bd01)
+![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&color=8f8f8f&logoColor=00c180)
+![](https://img.shields.io/badge/Lambda-informational?style=flat&logo=amazon-aws&color=8f8f8f&logoColor=f7a800)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=bfbfbf&logoColor=f7df4b)
-![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&color=bfbfbf&logoColor=00c180)
 ![](https://img.shields.io/badge/Serverless-informational?style=flat&logo=serverless&color=bfbfbf&logoColor=f15953)
-![](https://img.shields.io/badge/Lambda-informational?style=flat&logo=amazon-aws&color=bfbfbf&logoColor=f7a800)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&color=bfbfbf&logoColor=4ea84a)
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&color=bfbfbf&logoColor=c64414)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=bfbfbf&logoColor=00618a)
