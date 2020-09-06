@@ -18,9 +18,7 @@ My name is Tey García and I'm a web developer engineer. I'm from Costa Rica, cu
 
 <a href="https://github.com/Tgarcia7/goals">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tgarcia7&repo=goals&title_color=ffffff&text_color=c9cacc&icon_color=83cd29&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/Tgarcia7/goals-api">
+</a><a href="https://github.com/Tgarcia7/goals-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tgarcia7&repo=goals-api&title_color=ffffff&text_color=c9cacc&icon_color=83cd29&bg_color=1d1f21" />
 </a>    
 
