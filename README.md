@@ -3,12 +3,12 @@
 My name is Tey García and I'm a web developer engineer. I'm from Costa Rica, currently working at Código-E. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Serverless-informational?style=flat&logo=serverless&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lambda-informational?style=flat&logo=lambda&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&logoColor=white&color=80bd01)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df4b)
+![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=00c180)
+![](https://img.shields.io/badge/Serverless-informational?style=flat&logo=serverless&logoColor=white&color=f15953)
+![](https://img.shields.io/badge/Lambda-informational?style=flat&logo=amazon-aws&logoColor=white&color=f7a800)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00618a)
 
 ## &#x1f4c8; GitHub Stats
 
