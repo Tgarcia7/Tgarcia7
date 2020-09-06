@@ -31,4 +31,4 @@ My name is Tey García and I'm a web developer engineer. I'm from Costa Rica, cu
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/Tey_Miranda
-[3]: https://www.linkedin.com/in/in/tey/
+[3]: https://www.linkedin.com/in/tey/
