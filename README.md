@@ -13,7 +13,7 @@ My name is Tey García and I'm a web developer engineer. I'm from Costa Rica, cu
 ![](https://img.shields.io/badge/Serverless-informational?style=flat&logo=serverless&color=8f8f8f&logoColor=f15953)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&color=8f8f8f&logoColor=4ea84a)
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&color=8f8f8f&logoColor=c64414)
-![](https://img.shields.io/badge/dynamoDB-informational?style=flat&logo=amazon-aws&color=8f8f8f&logoColor=4f8fc9)
+![](https://img.shields.io/badge/dynamoDB-informational?style=flat&logo=amazon-aws&color=8f8f8f&logoColor=f7a800)
 
 ## &#x1f4c8; GitHub Stats
 
