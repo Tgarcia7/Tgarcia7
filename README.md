@@ -43,4 +43,4 @@ My name is Tey García and I'm a Full Stack engineer from Costa Rica 🇨🇷, c
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/teygarciam 
-[3]: https://www.linkedin.com/in/tey/
+[3]: https://www.linkedin.com/in/teygarcia/
