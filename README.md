@@ -2,7 +2,7 @@
 
 My name is Tey García and I'm a Full Stack engineer from Costa Rica 🇨🇷, currently working at WootIT. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-Specialities: Problem Solving, Javascript, Nodejs, MySQL and in general backend development.  
+Specialities: Problem Solving, JavaScript, Nodejs, MySQL and in general backend development.  
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&color=8f8f8f&logoColor=80bd01)
