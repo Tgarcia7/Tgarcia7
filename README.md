@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Tey García and I'm a Full Stack engineer from Costa Rica 🇨🇷, currently working at WootIT. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Tey García and I'm a Full Stack developer from Costa Rica 🇨🇷, currently working at WootIT. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 Specialities: Problem Solving, JavaScript, Nodejs, MySQL and in general backend development.  
 
