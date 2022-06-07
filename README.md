@@ -1,4 +1,4 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
 My name is Tey García and I'm a Back End developer from Costa Rica 🇨🇷, currently working at Gorilla Logic. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
