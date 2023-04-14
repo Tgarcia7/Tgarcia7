@@ -1,8 +1,8 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
-My name is Tey García and I'm a Back End developer from Costa Rica 🇨🇷, currently working at Gorilla Logic. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Tey García and I'm a Back End developer from Costa Rica 🇨🇷, currently working at Gorilla Logic. You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 
-Specialties: Problem Solving, JavaScript, Nodejs, MySQL and in general backend development.  
+I specialize in JavaScript, Nodejs, MySQL, and in general, backend development.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&color=8f8f8f&logoColor=80bd01)
