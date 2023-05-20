@@ -1,6 +1,7 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
-My name is Tey García and I'm a Back End developer from Costa Rica 🇨🇷, currently working at Gorilla Logic. You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
+I'm a Back End developer from Costa Rica 🇨🇷. 
+You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 
 I specialize in JavaScript, Nodejs, MySQL, and in general, backend development.
 
